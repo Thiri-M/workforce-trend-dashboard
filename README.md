@@ -26,6 +26,14 @@ This analytics dashboard using the HR dataset to uncover workforce trends across
 
 ---
 
+## 📁 Project Structure
+workforce-trend-dashboard/
+  dashboard/
+  data/
+  report/
+  visuals/
+  /README.md
+  
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](visuals/Workforce_Trend_Dashboard-1.png) 
 
