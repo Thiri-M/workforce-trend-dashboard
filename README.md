@@ -26,14 +26,9 @@ This analytics dashboard using the HR dataset to uncover workforce trends across
 
 ---
 
-## 📁 Project Structure
-workforce-trend-dashboard/
-  dashboard/
-  data/
-  report/
-  visuals/
-  /README.md
-  
+## Summary Report
+[Workforce Trend Summary Report for Decision](https://github.com/Thiri-M/workforce-trend-dashboard/blob/main/report/Workforce%20Trend%20Summary%20Report%20for%20Decision.pdf)
+
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](visuals/Workforce_Trend_Dashboard-1.png) 
 
